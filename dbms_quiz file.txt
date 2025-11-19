@@ -1,0 +1,29 @@
+ Which of the following is used to uniquely identify a record in a table?
+A) Foreign Key
+B) Primary Key
+C) Candidate Key
+D) Composite Key
+
+ What does SQL stand for?
+A) Simple Query Language
+B) Structured Question Language
+C) Structured Query Language
+D) Sequential Query Language
+
+ Which of the following is NOT a type of database model?
+A) Hierarchical model
+B) Network model
+C) Relational model
+D) Sequential model
+
+ Which command in SQL is used to remove a table from the database?
+A) DELETE
+B) REMOVE
+C) DROP
+D) CLEAR
+
+ In a relational database, data is stored in the form of:
+A) Files
+B) Tables
+C) Trees
+D) Graphs

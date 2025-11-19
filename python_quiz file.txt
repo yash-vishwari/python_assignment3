@@ -1,0 +1,32 @@
+ Which of the following is the correct file extension for Python files?
+A) .pyth
+B) .pt
+C) .py
+D) .p
+
+ What is the output of the following code?
+print(type(10))
+A) <class 'float'>
+B) <class 'str'>
+C) <class 'int'>
+D) <class 'number'>
+
+ Which of the following is used to define a block of code in Python?
+A) Brackets { }
+B) Indentation
+C) Parentheses ( )
+D) Quotation marks " "
+
+ Which keyword is used to define a function in Python?
+A) func
+B) def
+C) function
+D) define
+
+ What will be the output of the following code?
+x = [1, 2, 3]
+print(len(x))
+A) 2
+B) 3
+C) 4
+D) Error

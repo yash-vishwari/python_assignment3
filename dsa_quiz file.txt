@@ -1,0 +1,29 @@
+ Which data structure uses the LIFO (Last In, First Out) principle?
+A) Queue
+B) Stack
+C) Array
+D) Linked List
+
+ What is the time complexity of accessing an element in an array using an index?
+A) O(n)
+B) O(log n)
+C) O(1)
+D) O(n²)
+
+ Which data structure is best suited for implementing a priority queue?
+A) Stack
+B) Array
+C) Linked List
+D) Heap
+
+ In a queue, insertion of elements takes place at the ______ and deletion takes place at the ______.
+A) Front, Front
+B) Rear, Rear
+C) Rear, Front
+D) Front, Rear
+
+ A binary tree is a tree data structure in which each node has at most how many children?
+A) One
+B) Two
+C) Three
+D) Four
